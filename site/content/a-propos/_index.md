@@ -1,7 +1,7 @@
 ---
-title: "A Propos"
-date: 2018-08-22T22:25:37+02:00
-draft: false
+title: A Propos
+image: /img/about-reinvest-profits.jpg
+heading: Jhhhh
+description: Jjjjjj
 ---
 
-fdgdfgfdgdfg
